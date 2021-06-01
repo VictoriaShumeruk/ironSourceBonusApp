@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IronSourceBonusApp</string>
+    <string name="load_button">Load Ad</string>
+    <string name="show_button">Show Ad</string>
+</resources>
